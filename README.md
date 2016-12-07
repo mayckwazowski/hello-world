@@ -1,2 +1,2 @@
 # hello-world
-Sistema de Gestão de Clube de Desbravadores
+Espaço de estudos e idéias de desenvolvimento.
